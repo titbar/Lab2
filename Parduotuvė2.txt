@@ -1,0 +1,8 @@
+Avitela
+Pakraščio gatvė 19, Kaunas
+863623837
+Sonic;Way;800;A+;Stacionarus;Balta;neturi šaldiklio;2000
+Philips;Van;600;B;Stacionarus;Raudona;turi šaldiklį;1900
+Sonic;Van;600;B;Stacionarus;Raudona;turi šaldiklį;1500
+Panasonic;Fast;500;A++;Montuojamas;Balta;neturi šaldiklio;7500
+Huawei;Classic;700;C;Stacionarus;Geltona;turi šaldiklį;5000

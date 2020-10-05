@@ -1,0 +1,7 @@
+Ikea
+Ašigalio gatvė 20, Kaunas
+863623824
+Samsung;Itachi;500;A+;Stacionarus;Balta;neturi šaldiklio;500
+Sonic;Van;600;B;Stacionarus;Raudona;turi šaldiklį;1500
+Panasonic;Fast;500;A++;Montuojamas;Balta;neturi šaldiklio;7500
+Huawei;Classic;700;C;Stacionarus;Geltona;turi šaldiklį;5000
